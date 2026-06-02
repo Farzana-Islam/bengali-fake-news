@@ -18,8 +18,23 @@ One of the first publicly available fake news datasets for the Bengali language,
 - Farzana Islam et al. (2020). Bengali Fake News Detection. 
   IEEE International Conference on Intelligent Systems.
 
-## Usage
-If you use this dataset, please cite the IEEE IS 2020 paper above.
+## Citation
+If you use this dataset, please cite:
+
+```bibtex
+@inproceedings{islam2020bengali,
+  title={Bengali fake news detection},
+  author={Islam, Farzana and Alam, Mohammad Minhazul and Hossain, SM Shahadat and Motaleb, Abdul and Yeasmin, Sabrina and Hasan, Mehedi and Rahman, Rashedur M},
+  booktitle={2020 IEEE 10th International Conference on Intelligent Systems (IS)},
+  pages={281--287},
+  year={2020},
+  organization={IEEE}
+}
+### 3. Paper DOI/Link
+https://ieeexplore.ieee.org/abstract/document/9199931
+
+---
+
 
 ## Author
 Farzana Islam  
