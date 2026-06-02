@@ -5,7 +5,7 @@ One of the first publicly available fake news datasets for the Bengali language,
 - Collected from Bengali local news sources
 - Labeled for fake/real classification
 - Built to address the lack of NLP resources for underrepresented languages
-- 
+  
 ## Methods
 - Scraped Bengali news from local newspapers
 - Labeled articles as fake/real
@@ -15,8 +15,14 @@ One of the first publicly available fake news datasets for the Bengali language,
 - Best accuracy: 85% with Random Forest
   
 ## Related Work
-- Farzana Islam et al. (2020). Bengali Fake News Detection. 
-  IEEE International Conference on Intelligent Systems.
+- Farzana Islam et al. (2020). Bengali Fake News Detection. IEEE International Conference on Intelligent Systems.
+  
+### Paper DOI/Link
+https://ieeexplore.ieee.org/abstract/document/9199931
+
+## Author
+Farzana Islam  
+[LinkedIn](https://linkedin.com/in/farzanaa-islam) · [Portfolio](https://farzana-islam.github.io/portal)
 
 ## Citation
 If you use this dataset, please cite:
@@ -30,10 +36,3 @@ If you use this dataset, please cite:
   year={2020},
   organization={IEEE}
 }
-### 3. Paper DOI/Link
-https://ieeexplore.ieee.org/abstract/document/9199931
-
----
-## Author
-Farzana Islam  
-[LinkedIn](https://linkedin.com/in/farzanaa-islam) · [Portfolio](https://farzana-islam.github.io/portal)
